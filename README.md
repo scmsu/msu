@@ -1,4 +1,4 @@
 # msu
 MSU applications
 
-The file describes MSU application
+The file describes MSU applications
