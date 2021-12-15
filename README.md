@@ -1,4 +1,4 @@
 # msu
 MSU applications
 
-Text editor application
+The file describes MSU application
